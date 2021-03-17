@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pharmagy-Demo-Screens-(4)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03" transform="translate(-35.000000, -62.000000)" fill="#2A2D36" fill-rule="nonzero">
+            <g id="top-nav" transform="translate(35.000000, 56.000000)">
+                <path d="M14.1411559,6.22558938 C13.8550651,5.92480354 13.3789139,5.92480354 13.0828199,6.22558938 C12.7967291,6.51621353 12.7967291,6.99990967 13.0828199,7.28985638 L18.4491902,12.741261 L0.740901874,12.741261 C0.32810416,12.7419384 0,13.0752416 0,13.4945804 C0,13.9139192 0.32810416,14.2580616 0.740901874,14.2580616 L18.4491902,14.2580616 L13.0828199,19.6993045 C12.7967291,20.0000903 12.7967291,20.4844639 13.0828199,20.7744106 C13.3789139,21.0751965 13.855732,21.0751965 14.1411559,20.7744106 L20.7779295,14.0324722 C21.0740235,13.7418481 21.0740235,13.2581519 20.7779295,12.9682052 L14.1411559,6.22558938 Z" id="Path" transform="translate(10.500000, 13.500000) scale(-1, 1) translate(-10.500000, -13.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

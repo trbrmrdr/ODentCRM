@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>verified</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.6196,0.837083333 L11.276,0.479583333 C10.8988,0.0858333333 10.2808,0.0858333333 9.9024,0.479583333 L4.0688,6.55708333 L1.9988,4.40166667 C1.6216,4.00833333 1.0032,4.00833333 0.626,4.40208333 L0.2828,4.75916667 C-0.0944,5.1525 -0.0944,5.79625 0.2828,6.18958333 L3.3804,9.41958333 C3.758,9.8125 4.376,9.8125 4.7536,9.41958333 L11.6196,2.2675 C11.9964,1.87416667 11.9964,1.23041667 11.6196,0.837083333 Z" id="path-1"></path>
+        <filter x="-46.2%" y="-36.7%" width="192.1%" height="215.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.263456242   0 0 0 0 0.525126766   0 0 0 0 0.91015625  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Pharmagy-Demo-Screens-(4)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01" transform="translate(-234.000000, -260.000000)">
+            <g id="main-items" transform="translate(35.000000, 194.000000)">
+                <g id="rectangle-01">
+                    <g id="verified" transform="translate(199.000000, 66.000000)">
+                        <circle id="Oval" fill="#5298FF" cx="12" cy="12" r="12"></circle>
+                        <g id="checked" transform="translate(6.000000, 7.000000)" fill-rule="nonzero">
+                            <g id="Path">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#C2DDFF" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

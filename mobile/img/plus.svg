@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="60px" viewBox="0 0 56 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="69.4919514%" id="linearGradient-1">
+            <stop stop-color="#3C94FF" offset="0%"></stop>
+            <stop stop-color="#3E83FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="25" cy="25" r="25"></circle>
+        <filter x="-16.0%" y="-10.0%" width="132.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="7" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.669168107   0 0 0 0 0.732945465   0 0 0 0 0.84227808  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Pharmagy-Demo-Screens-(4)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01" transform="translate(-159.000000, -719.000000)">
+            <g id="main-menu" transform="translate(0.000000, 702.000000)">
+                <g id="Group" transform="translate(162.000000, 17.000000)">
+                    <g id="oval-front">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="add-item" transform="translate(16.000000, 16.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle" x="7.71428571" y="0" width="2.57142857" height="18" rx="1.28571429"></rect>
+                        <path d="M8.99428573,-3.55271368e-15 L9.00571427,-3.10862447e-15 C9.71263876,-3.23848439e-15 10.2857143,0.573075529 10.2857143,1.28000002 L10.2857143,16.72 C10.2857143,17.4269245 9.71263876,18 9.00571427,18 L8.99428573,18 C8.28736124,18 7.71428571,17.4269245 7.71428571,16.72 L7.71428571,1.28000002 C7.71428571,0.573075529 8.28736124,-2.97876455e-15 8.99428573,-3.10862447e-15 Z" id="Rectangle" transform="translate(9.000000, 9.000000) rotate(90.000000) translate(-9.000000, -9.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
